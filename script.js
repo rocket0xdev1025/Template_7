@@ -2,7 +2,7 @@
 const navbar = document.querySelector(".navbar");
 const scrollIndicator = document.querySelector(".scroll-indicator");
 const toast = document.getElementById("toast");
-const contractAddress = "0x27e98a0e049c7650d0504e48b1b48f35823ae56f";
+const contractAddress = "0xcomingsoon";
 
 // Navbar scroll effect
 window.addEventListener("scroll", () => {
